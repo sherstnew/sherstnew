@@ -8,7 +8,5 @@
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D "vue") ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "express") ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white "flask")
 ##### My code editor:
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "vscode")
-#### Some facts:
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sherstnew&theme=blue-green "stat")
 
 #### Thanks for reading! If you want to contact me: sherstnev.denis.v@gmail.com ☄
