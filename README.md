@@ -1,7 +1,7 @@
 ### Hi! ✌
 #### 🐀 My name is denis, and i have been developing websites since 2021)
 ![os](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "os") ![opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white "opera")
-##### Stats:
+#### Stats:
 ![sherstnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherstnew&show_icons=true&theme=cobalt)
 ### Tech and tools:
 ##### What I know:
