@@ -1,7 +1,9 @@
-### Hi! ✌
-#### 🐀 My name is denis, and i have been developing websites since 2021)
+:yawning_face: <div align="center">
+# Hi! :wave:
+### :water_buffalo: My name is denis, and i have been developing websites since 2021.
+----
 ![os](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "os") ![opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white "opera")
-#### Stats:
+
 ![sherstnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherstnew&show_icons=true&theme=tokyonight)
 ### Tech and tools:
 ##### What I know:
@@ -12,3 +14,4 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "vscode")
 
 #### Thanks for reading! If you want to contact me: sherstnev.denis.v@gmail.com ☄
+</div>
